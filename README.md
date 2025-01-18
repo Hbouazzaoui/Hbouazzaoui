@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamoudabouazzaoui&label=Profile%20views&color=0e75b6&style=flat" alt="hamoudabouazzaoui" />
+  <img src="https://komarev.com/ghpvc/?username=Hbouazzaoui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -14,15 +14,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <!-- Add more icons here -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamoudabouazzaoui&show_icons=true&locale=en" alt="hamoudabouazzaoui" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamoudabouazzaoui&" alt="hamoudabouazzaoui" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hbouazzaoui&show_icons=true&locale=en" alt="Hbouazzaoui GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Hbouazzaoui" alt="Hbouazzaoui Streak Stats" />
 </p>
 
 ---
@@ -31,5 +34,5 @@
 <p align="center">
   <a href="mailto:bouazzaouiihamouda@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/hamoudabouazzaoui"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  
 </p>
-
