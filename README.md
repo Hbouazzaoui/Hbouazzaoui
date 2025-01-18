@@ -6,6 +6,8 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hbouazzaoui&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1)
 
 ### 🛠️ Languages and Tools:
 <p align="center">
