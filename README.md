@@ -25,7 +25,7 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hbouazzaoui&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Hbouazzaoui GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Hbouazzaoui&show_icons=true&locale=en&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=Hbouazzaoui&show_icons=true&locale=en&theme=dark&hide_border=true)" alt="Hbouazzaoui GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Hbouazzaoui&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
