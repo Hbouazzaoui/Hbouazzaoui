@@ -62,3 +62,7 @@
 
 <!-- Final Wave -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" alt="Wave bottom border" />
+
+### 🐍 Watch my contribution graph get eaten by a snake!
+![snake gif](https://github.com/Hbouazzaoui/Hbouazzaoui/blob/output/github-contribution-grid-snake.svg)
+
