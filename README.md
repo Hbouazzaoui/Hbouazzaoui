@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hamouda Bouazzaoui</h1>
-<h3 align="center">I'm a passionate Fullstack Developer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
