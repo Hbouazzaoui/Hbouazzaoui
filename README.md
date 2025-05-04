@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hamouda Bouazzaoui</h1>
 <h3 align="center">I'm a passionate Fullstack Developer</h3>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamouda;Full-Stack+Developer+%F0%9F%92%BB;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hbouazzaoui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" alt="Wave bottom border" />
 
 ---
 
@@ -15,63 +24,43 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="center"> 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-
-  <!-- Others -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,java,c,cpp,bootstrap,angular,react,spring,mysql,sqlite,git,linux,vscode,figma,docker&theme=light" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hbouazzaoui&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Hbouazzaoui GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hbouazzaoui&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Hbouazzaoui&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-🚀 Passionate Full-Stack Developer with expertise in **Java, Angular, HTML, CSS, and more**. Currently focusing on **Java EE and modern front-end technologies** like **React** to build scalable and efficient applications.
 
-🎯 **Goals:**
-- 🌱 Learning **Bootstrap & improving my Angular and Spring Boot skills**.
-- 💡 Constantly exploring new technologies and frameworks.
-- 🎯 Passionate about software development, problem-solving, and team collaboration.
-- 🏆 Alumni of **École 1337 & Ahmed Al Hansali Digital School**.
+🚀 Passionate Full-Stack Developer with expertise in **Java, Angular, Spring Boot, React, HTML, CSS, and more**.  
+🎓 Studied at **École 1337** & **Ahmed Al Hansali Digital School**.  
+🌐 Focused on building dynamic and scalable web applications.  
+🌱 Currently learning more about **Bootstrap, Docker, and clean architecture**.  
+💡 I enjoy **problem-solving, team collaboration, and full project development**.
 
 ---
 
-### 🌐 Connect with me:
+### 🔗 Connect with me:
+
 <p align="center">
   <a href="mailto:bouazzaouiihamouda@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/hamoudabouazzaoui"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
+---
+
+<!-- Animated Rocket -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Rocket animation" />
+</p>
+
+<!-- Final Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" alt="Wave bottom border" />
